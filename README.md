@@ -14,9 +14,12 @@ This project uses an LSTM (Long Short-Term Memory) deep learning model to foreca
 
 ### 10days Forecast: 
 ![Image](https://github.com/user-attachments/assets/14e8cdf9-3bf7-4093-9eaa-6809c973ecfe)
+![Screenshot 2025-05-23 173333](https://github.com/user-attachments/assets/5f955636-5bb1-4f8e-a3e7-c771c7fbb46b)
+
 
 ### 30days Forecast:
 ![Image](https://github.com/user-attachments/assets/bd06f0f1-a06e-4f67-b4f9-edb0d2ec368a)
+![Screenshot 2025-05-23 173343](https://github.com/user-attachments/assets/0e9f8a22-77c9-42c0-9bc1-e4c8573aa7e2)
 
 ---
 
