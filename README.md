@@ -74,14 +74,3 @@ SHAP explains the contribution of each input (past stock value) to the model's f
 | RMSE       | Root Mean Squared Error              |
 | R² Score   | Coefficient of Determination         |
 
----
-
-## 🔧 Usage
-
-Follow the steps below to run the HDFC Bank stock price prediction model and interpret it using SHAP:
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Nithesh04/Stock-price-Prediction-using-LSTM-with-explanable-ai-XAI-SHAP.git
-cd Stock-price-Prediction-using-LSTM-with-explanable-ai-XAI-SHAP
